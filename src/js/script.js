@@ -2,8 +2,8 @@
 const age = 14;
 console.log(age);
 // Task 2
-const name = "Vlad";
-console.log(name);
+const myName = "Vlad";
+console.log(myName);
 // Task 3
 const isStudent = true;
 console.log(isStudent);
